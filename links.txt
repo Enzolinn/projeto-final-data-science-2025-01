@@ -1,0 +1,5 @@
+https://www.kaggle.com/datasets/piterfm/massive-missile-attacks-on-ukraine/code
+https://www.kaggle.com/code/piterfm/massive-missile-attacks-on-ukraine-data-review#Unpack-destroyed_details-columns
+https://www.kaggle.com/code/user182827/ukraine-missile-attacks-eda-and-visualisation
+https://www.kaggle.com/code/rajeevsinghsisodiya/missile-attacks-on-ukraine-by-machine-learning
+https://www.kaggle.com/code/aiwithcagri/orlan-and-iskender-attacks
