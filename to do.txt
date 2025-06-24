@@ -1,0 +1,4 @@
+ajustar retreinamento 
+separar as celulas em arquivos separados talvez, 
+limpar o codigo de comentarios
+gerar relatorio e apresentação
