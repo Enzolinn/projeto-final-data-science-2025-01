@@ -2,8 +2,8 @@ model,launched,target
 X-101/X-555,16,lviv
 Shahed-136/131,30,odesa
 Iskander-M,4,kyiv
+Iskander-M,12,kyiv
 Iskander-M,2,odesa
 Iskander-M,2,sumy
-Shahed-136/131,352,kyiv
-Iskander-M,11,kyiv
-Iskander-K,5,kyiv
+Shahed-136/131,352,sumy
+X-22,1,dnipro 
